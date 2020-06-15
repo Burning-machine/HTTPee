@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HTTPee</string>
+    <string name="image_uri">image.png</string>
+    <string name="description">Android HTTP server</string>
+</resources>

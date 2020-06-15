@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_title">#F6F38C</color>
+    <color name="black">#1D2412</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_message_headers">#499c4a</color>
+    <color name="color_green">#0ab12f</color>
+    <color name="color_green_pressed">#0fd63b</color>
+    <color name="color_orange">#F60</color>
+    <color name="color_orange_pressed">#ffa366</color>
+    <color name="color_error">#f50c08</color>
+    <color name="gris">#77808A</color>
+    <color name="transparent">#00FFFFFF</color>
+	 <color name="colorPrimary">#434343</color>
+    <color name="colorPrimaryDark">#3d3d3d</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="indicator_unselected">#00000000</color>
+</resources>
